@@ -15,3 +15,7 @@ https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 - ### mountain car
 ![image](https://github.com/user-attachments/assets/48d49deb-0d83-4ec8-ad85-1aff63e515f3)  
 https://gymnasium.farama.org/environments/toy_text/taxi/
+
+- ### cliff walking
+![image](https://github.com/user-attachments/assets/b596b873-0f2c-47f7-ac97-1a5d098dddb9)  
+https://gymnasium.farama.org/environments/toy_text/cliff_walking/
